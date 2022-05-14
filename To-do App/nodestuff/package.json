@@ -1,0 +1,19 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "First RESTful API",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Prajwal Kalpande",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
